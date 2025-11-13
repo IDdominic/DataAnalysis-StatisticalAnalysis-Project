@@ -32,6 +32,6 @@ A comprehensive statistical research project analyzing spending patterns and fin
 The study provides evidence-based insights for developing targeted interventions to support student financial well-being in Nigerian tertiary institutions.
 
 ---
-**Researcher:** [Your Name]  
+**Researcher:** IDOWU AKINWALE TOPE  
 **Institution:** Federal Polytechnic Ado-Ekiti  
 **Area:** Statistical Analysis & Educational Economics
